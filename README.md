@@ -1,6 +1,6 @@
-<!--<h1 align="center">
+<h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://assets.codepen.io/6566924/AdobeStock_510115847.png" alt="" width="200"></a>
+  <a href="[http://www.amitmerchant.com/electron-markdownify](https://atom-loves-you.github.io/Tone.js-Oscillator-Step-Sequencer/)"><img src="[https://assets.codepen.io/6566924/AdobeStock_510115847.png](https://assets.codepen.io/6566924/Tone.js+Oscillator-Step+Sequencer-Cover-1.svg)" alt="" width="200"></a>
   <br>
 Atom Loves You
   <br>
